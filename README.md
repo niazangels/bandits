@@ -6,7 +6,7 @@ Code adapted from John Myles White's super succinct book, "Bandit Algorithms for
 
 * Code ported to Python 3.6
 * Uses builtin functions whenever possible
-* All plots done in Matplotlib on Jupyter instead of R
+* Plots created with Matplotlib instead of R
 
 ### More to come
 [x] UCB1
