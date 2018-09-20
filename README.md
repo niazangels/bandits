@@ -9,6 +9,7 @@ Code adapted from John Myles White's super succinct book, "Bandit Algorithms for
 * All plots done in Matplotlib on Jupyter instead of R
 
 ### More to come
-* UCB1
-* Brief explanation/summary
-* Cleaner code
+[x] UCB1
+[ ] Solutions to the exercises
+[ ] Brief explanation/summary
+[ ] Cleaner code
